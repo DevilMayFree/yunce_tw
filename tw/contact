@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <title>聯絡我們-豐銀投顧</title>
+        <base href="https://www.forwinstock.com.tw/">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
+    <link rel="canonical" href="https://www.forwinstock.com.tw/tw/contact" />
+    <!--語系選項-->
+    <link rel="alternate" hreflang="zh-TW" href="https://www.forwinstock.com.tw/tw" />
+    <meta name="title" content="聯絡我們-豐銀投顧">
+    <meta name="description" content="豐銀投顧
+台股
+何金城
+李世新
+葉俊敏
+龔鴻彬 
+陳奇琛">
+    <meta name="keywords" content="豐銀投顧 台股 何金城 李世新 葉俊敏 龔鴻彬 陳奇琛">
+    <meta name="author" content="豐銀證券">
+    <meta name="copyright" content="豐銀證券">
+        <!--語系選項-->
+        <link rel="stylesheet" href="assets/ContentBuilder/assets/minimalist-blocks/content.css">
+    <link rel="stylesheet" href="assets/css/app.css?202103181601">
+        <!--[if lt IE 9]>
+     <script src="assets/js/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+
+  <body>
+    <header class="header black-style">
+  <div class="header__main">
+    <h1 class="header__name">
+      豐銀證券
+      <a class="header__logo" href="tw">
+        <img
+          class="header__logo-img header__logo-default"
+          src="assets/img/logo/logo_header.svg"
+          alt="豐銀證券"
+        />
+      </a>
+    </h1>
+    <div class="header__nav">
+      <div class="nav">
+        <ul class="nav__list">
+          <li class="nav__item">
+            <a class="nav__link" href="tw/about">關於豐銀</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="tw/teams/teacher"
+              >分析師陣容</a
+            >
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="tw/news/articles">最新消息</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="tw/online/lecture"
+              >線上演講會</a
+            >
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="tw/contact">聯絡我們</a>
+          </li>
+        </ul>
+      </div>
+
+
+      <div class="user_item nav__item">
+        <div class="nav__link-bg">
+          <a href="https://www.forwinstock.com.tw/tw/login" class="nav__link">
+            <div class="img_width">
+              <img src="assets/img/icon/icon_member_dark.svg" />
+            </div>
+                      </a>
+          <a href="https://www.forwinstock.com.tw/tw/login" class="nav__link">會員登入</a>
+        </div>
+      </div>
+
+      <div class="mobile-nav">
+        <ul class="mobile-nav__list">
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/about">關於豐銀</a>
+          </li>
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/teams/teacher"
+              >分析師陣容</a
+            >
+          </li>
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/news/articles"
+              >最新消息</a
+            >
+          </li>
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/online/lecture"
+              >線上演講會</a
+            >
+          </li>
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/contact"
+              >聯絡我們</a
+            >
+          </li>
+                    <li class="mobile-nav__item mobile-nav__item--btn">
+            <a class="mobile-nav__link" href="https://www.forwinstock.com.tw/tw/login"><span>會員登入</span></a>
+          </li>
+                  </ul>
+      </div>
+    </div>
+    <div class="header__btn" data-href="root">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+</header>
+    <main>
+      <div class="contact-area">
+        <div class="contact-area__right">
+          <div class="contact-area__txtbox-r">
+            <div class="contact-title__mobile">
+              <div class="title-main text-center mb-5">
+                <h3>聯絡我們</h3>
+                <p>CONTACT</p>
+              </div>
+            </div>
+            <form id="cform">
+            <ul class="all-input mb-5 lg:mb-10">
+              <li class="input-list col-row">
+                <div class="input-item__form col-1/1">
+                  <div class="input-item__view">
+                    <label class="input-item__placeholder">姓名 *</label>
+                    <input
+                      class="input-item__control js-form__control"
+                      type="text"
+                      name="xname" required
+                    />
+                  </div>
+                </div>
+              </li>
+              <li class="input-list col-row">
+                <div class="input-item__form col-1/1">
+                  <div class="input-item__view">
+                    <label class="input-item__placeholder">電話*</label>
+                    <input
+                      class="input-item__control js-form__control"
+                      type="text"
+                      name="xtel" required
+                    />
+                  </div>
+                </div>
+              </li>
+              <li class="input-list col-row">
+                <div class="input-item__form col-1/1">
+                  <div class="input-item__view">
+                    <label class="input-item__placeholder">E-mail</label>
+                    <input
+                      class="input-item__control js-form__control"
+                      type="text"
+                      name="xmail"
+                    />
+                  </div>
+                </div>
+              </li>
+              <li class="input-list col-row">
+                <div class="input-item__form col-1/1">
+                  <div class="input-item__view">
+                    <label class="input-item__placeholder">訊息 *</label>
+                    <textarea
+                      class="input-item__control js-form__control"
+                      name="xmessage" required
+                    ></textarea>
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <input type="hidden" value="" name="g-recaptcha-response" id="recaptchaResponse"><script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LdE0MMaAAAAAJpRzico9OPUojhLdgLApB8k1SYN&hl=zh-TW"></script>
+          <script>
+          function grecaptcha_execute(){
+              grecaptcha.execute("6LdE0MMaAAAAAJpRzico9OPUojhLdgLApB8k1SYN", {action: "/contact"}).then(function(token) {var recaptchaResponse = document.getElementById("recaptchaResponse");recaptchaResponse.value = token;});
+          }
+          grecaptcha.ready(function() {
+            grecaptcha_execute();
+          });
+          setInterval(function(){grecaptcha_execute();}, 120000);
+          </script>            <div class="contact-area__btn">
+              <p class="contact-area__remind">
+                豐銀證券投資顧問股份有限公司 (103)年金管投顧新字第030號
+              </p>
+              <button class="teacher-detail__link" type="button" onclick="validform()">
+                <span>確認送出</span>
+              </button>
+            </div>
+            </form>
+          </div>
+        </div>
+        <div class="contact-area__left">
+          <div class="contact-area__txtbox-l">
+            <h2 class="n-serif-mainTilte mb-5 lg:mb-8 font-medium">
+              聯絡我們<span>CONTACT</span>
+            </h2>
+            <p class="contact-area__txt">客服專線：02-8502-6666</p>
+            <p class="contact-area__txt">傳真：02-8502-6676</p>
+            <p class="contact-area__txt">
+              地址：104台北市中山區敬業一路99號5樓
+            </p>
+            <p class="contact-area__txt">Email：forwin.stock@msa.hinet.net</p>
+            <a href="javascript:;" class="google-map mt-3">Google Map</a>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+  <div class="col-container-footer text-center">
+    <img
+      src="assets/img/logo/logo_footer.svg"
+      alt=""
+      class="mb-5 footer-logo"
+    />
+    <ul class="footer-ul mb-8 lg:mb-12">
+      <li>
+        <p>客服專線：02-8502-6666</p>
+        <p>傳真：02-8502-6676</p>
+      </li>
+      <li>
+        地址：104台北市中山區敬業一路99號5樓(捷運劍南路站2號出口走路5分鐘
+        大灣科技大樓)
+      </li>
+    </ul>
+  </div>
+  <div class="footer-bottom">
+    <div class="col-container-footer text-center">
+      <p>
+        (103)年金管投顧新字第030號<br />
+        本網站著作皆為豐銀投顧所有，未經告知不得擅自轉載，違者將依著作權相關辦法，依法處理。<br />Copyright
+        © 2021 Forwin Co., Ltd All Rights Reserved.
+      </p>
+      <img src="assets/img/logo/certification.svg" alt="" />
+    </div>
+  </div>
+</footer>
+    <script src="assets/js/vendor.js"></script>
+<script src="assets/js/app.js"></script>
+    <script src="assets/js/jquery.validate.min.js"></script>
+        <script src="assets/js/messages_zh_TW.min.js"></script>
+        <script>
+      var em_form = $("#cform");
+      function validform() {
+        if(em_form.valid()) {
+          var url = 'https://www.forwinstock.com.tw/tw/ajax/contact';
+          var data = em_form.serialize();
+          $.post(url,data,function(a) {
+            if(a.msg) {alert(a.msg); return;}
+            em_form[0].reset();
+            if(a.url) top.location.href=a.url;
+          })
+        }
+      }
+      $().ready(function() {
+        em_form.validate({
+          lang: 'zh-TW',
+          rules: {
+            xmail: {
+              email: true
+            }
+          }
+        })
+      });
+    </script>
+  </body>
+</html>
+
+<script>
+  function logout2() {
+    $.post("https://www.forwinstock.com.tw/tw/logout/member",function(a) {
+      if(a.url) top.location.href = a.url;
+    })
+  }
+</script>
+<script>
+  function logout() {
+    $.post("https://www.forwinstock.com.tw/tw/logout",function(a) {
+      if(a.url) top.location.href = a.url;
+    })
+  }
+</script>

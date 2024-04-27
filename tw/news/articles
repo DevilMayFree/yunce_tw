@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+        <title>豐銀投顧</title>
+        <base href="https://www.forwinstock.com.tw/">
+    <link rel="icon" type="image/png" href="assets/img/favicon.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
+    <link rel="canonical" href="https://www.forwinstock.com.tw/tw/news/articles" />
+    <!--語系選項-->
+    <link rel="alternate" hreflang="zh-TW" href="https://www.forwinstock.com.tw/tw" />
+    <meta name="title" content="豐銀投顧">
+    <meta name="description" content="豐銀投顧
+台股
+何金城
+李世新
+葉俊敏
+龔鴻彬 
+陳奇琛">
+    <meta name="keywords" content="豐銀投顧 台股 何金城 李世新 葉俊敏 龔鴻彬 陳奇琛">
+    <meta name="author" content="豐銀證券">
+    <meta name="copyright" content="豐銀證券">
+        <!--語系選項-->
+        <link rel="stylesheet" href="assets/ContentBuilder/assets/minimalist-blocks/content.css">
+    <link rel="stylesheet" href="assets/css/app.css?202103181601">
+        <!--[if lt IE 9]>
+     <script src="assets/js/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+
+  <body>
+    <header class="header ">
+  <div class="header__main">
+    <h1 class="header__name">
+      豐銀證券
+      <a class="header__logo" href="tw">
+        <img
+          class="header__logo-img header__logo-default"
+          src="assets/img/logo/logo_header.svg"
+          alt="豐銀證券"
+        />
+      </a>
+    </h1>
+    <div class="header__nav">
+      <div class="nav">
+        <ul class="nav__list">
+          <li class="nav__item">
+            <a class="nav__link" href="tw/about">關於豐銀</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="tw/teams/teacher"
+              >分析師陣容</a
+            >
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="tw/news/articles">最新消息</a>
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="tw/online/lecture"
+              >線上演講會</a
+            >
+          </li>
+          <li class="nav__item">
+            <a class="nav__link" href="tw/contact">聯絡我們</a>
+          </li>
+        </ul>
+      </div>
+
+
+      <div class="user_item nav__item">
+        <div class="nav__link-bg">
+          <a href="https://www.forwinstock.com.tw/tw/login" class="nav__link">
+            <div class="img_width">
+              <img src="assets/img/icon/icon_member_dark.svg" />
+            </div>
+                      </a>
+          <a href="https://www.forwinstock.com.tw/tw/login" class="nav__link">會員登入</a>
+        </div>
+      </div>
+
+      <div class="mobile-nav">
+        <ul class="mobile-nav__list">
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/about">關於豐銀</a>
+          </li>
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/teams/teacher"
+              >分析師陣容</a
+            >
+          </li>
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/news/articles"
+              >最新消息</a
+            >
+          </li>
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/online/lecture"
+              >線上演講會</a
+            >
+          </li>
+          <li class="mobile-nav__item">
+            <a class="mobile-nav__link" href="tw/contact"
+              >聯絡我們</a
+            >
+          </li>
+                    <li class="mobile-nav__item mobile-nav__item--btn">
+            <a class="mobile-nav__link" href="https://www.forwinstock.com.tw/tw/login"><span>會員登入</span></a>
+          </li>
+                  </ul>
+      </div>
+    </div>
+    <div class="header__btn" data-href="root">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+</header>
+    <main>
+      <div class="inner-banner inner-banner--news">
+        <h3>最新消息</h3>
+      </div>
+      <div class="inner-list-outbox">
+        <div class="col-container">
+          <div class="col-row gap-30 lg:gap-x-75 lg:gap-y-60">
+                      </div>
+        </div>
+      </div>
+    </main>
+    <footer class="footer">
+  <div class="col-container-footer text-center">
+    <img
+      src="assets/img/logo/logo_footer.svg"
+      alt=""
+      class="mb-5 footer-logo"
+    />
+    <ul class="footer-ul mb-8 lg:mb-12">
+      <li>
+        <p>客服專線：02-8502-6666</p>
+        <p>傳真：02-8502-6676</p>
+      </li>
+      <li>
+        地址：104台北市中山區敬業一路99號5樓(捷運劍南路站2號出口走路5分鐘
+        大灣科技大樓)
+      </li>
+    </ul>
+  </div>
+  <div class="footer-bottom">
+    <div class="col-container-footer text-center">
+      <p>
+        (103)年金管投顧新字第030號<br />
+        本網站著作皆為豐銀投顧所有，未經告知不得擅自轉載，違者將依著作權相關辦法，依法處理。<br />Copyright
+        © 2021 Forwin Co., Ltd All Rights Reserved.
+      </p>
+      <img src="assets/img/logo/certification.svg" alt="" />
+    </div>
+  </div>
+</footer>
+    <script src="assets/js/vendor.js"></script>
+<script src="assets/js/app.js"></script>
+  </body>
+</html>
+
+<script>
+  function logout2() {
+    $.post("https://www.forwinstock.com.tw/tw/logout/member",function(a) {
+      if(a.url) top.location.href = a.url;
+    })
+  }
+</script>
+<script>
+  function logout() {
+    $.post("https://www.forwinstock.com.tw/tw/logout",function(a) {
+      if(a.url) top.location.href = a.url;
+    })
+  }
+</script>
